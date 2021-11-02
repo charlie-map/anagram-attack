@@ -12,3 +12,5 @@ const fs = require('fs');
 // each other words alphanumerical word
 // Hmm...
 // We wish you well!
+
+console.log("Hey!");
